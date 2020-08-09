@@ -78,8 +78,8 @@ const styles = StyleSheet.create({
 
   favoriteButton: {
     backgroundColor: '#8257e5',
-    width: 56,
-    height: 56,
+    width: 46,
+    height: 46,
     borderRadius: 8,
     justifyContent: 'center',
     alignItems: 'center',
