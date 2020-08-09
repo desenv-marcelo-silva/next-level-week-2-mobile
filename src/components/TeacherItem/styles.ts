@@ -41,7 +41,6 @@ const styles = StyleSheet.create({
   },
 
   bioArea: {
-    height: '20%',
     marginTop: 16,
     marginHorizontal: 24,
   },
@@ -85,6 +84,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     marginRight: 8,
+  },
+
+  favorited: {
+    backgroundColor: '#e33d3d',
   },
 
   contactButton: {
