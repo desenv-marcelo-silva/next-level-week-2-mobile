@@ -2,7 +2,9 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
   container: {
-    padding: 40,
+    paddingTop: 30,
+    paddingBottom: 10,
+    paddingHorizontal: 40,
     backgroundColor: '#8257e5',
   },
 
@@ -18,7 +20,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     lineHeight: 32,
     maxWidth: 160,
-    marginVertical: 20,
+    marginVertical: 10,
   },
 });
 
