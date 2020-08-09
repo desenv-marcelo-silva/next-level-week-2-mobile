@@ -9,6 +9,33 @@ const styles = StyleSheet.create({
   teacherList: {
     marginTop: -30,
   },
+
+  searchForm: {
+    marginBottom: 4,
+  },
+
+  label: {
+    color: '#d4c2ff',
+    fontFamily: 'Poppins_400Regular',
+  },
+
+  inputGroup: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+
+  inputBlock: {
+    width: '46%',
+  },
+
+  input: {
+    height: 46,
+    backgroundColor: '#fff',
+    borderRadius: 8,
+    justifyContent: 'center',
+    paddingHorizontal: 16,
+    marginTop: 4,
+  },
 });
 
 export default styles;
