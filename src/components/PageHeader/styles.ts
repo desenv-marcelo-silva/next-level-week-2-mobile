@@ -22,6 +22,12 @@ const styles = StyleSheet.create({
     maxWidth: 160,
     marginVertical: 10,
   },
+
+  header: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
 });
 
 export default styles;
